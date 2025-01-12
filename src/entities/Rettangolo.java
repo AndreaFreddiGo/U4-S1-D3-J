@@ -20,6 +20,4 @@ public class Rettangolo {
     public int perimetro() {
         return 2 * (this.altezza + this.larghezza);
     }
-
-
 }

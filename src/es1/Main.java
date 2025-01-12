@@ -1,3 +1,5 @@
+package es1;
+
 import entities.Rettangolo;
 
 public class Main {
